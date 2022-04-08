@@ -1,1 +1,1 @@
-# countdown-timer
+# Vanilla JavaScript Countdown Timer
